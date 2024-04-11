@@ -39,13 +39,17 @@ The core objective of this project is to create an application that accepts a de
 
 ## Usage
 
-1. Start the Django server:
+1. Change the directory to testai_project
+     ```bash
+    cd testai_project
+    ```
+2. Start the Django server:
 
     ```bash
     python manage.py runserver
     ```
 
-2. Make a POST request to the following endpoint:
+3. Make a POST request to the following endpoint:
 
     - Endpoint: http://127.0.0.1:8000/testai/tests/v1/execute
     - Method: POST
@@ -66,7 +70,7 @@ The core objective of this project is to create an application that accepts a de
     }
     ```
 
-3. The system will execute the provided test steps using Robot Framework and return the results.
+4. The system will execute the provided test steps using Robot Framework and return the results.
 
 ## Result Example
 
