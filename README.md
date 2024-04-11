@@ -12,12 +12,15 @@ The core objective of this project is to create an application that accepts a de
 - File Structure
 
 ![Demonstration Image](image2.png)
+
 - POST METHOD
  
 ![Demonstration Image](image3.png)
+
 - Automated Chrome and Google.com search after .robot execution
  
 ![Demonstration Image](image5.png)
+
 - Test Suite Report ==> Test Case passed
 
 ![Demonstration Image](image4.png)
@@ -97,6 +100,13 @@ Upon making a POST request, you will receive a JSON response containing the test
             ==============================================================================\n"
 }
 ```
+- Automated Chrome and Google.com search after .robot execution
+ 
+![Demonstration Image](image5.png)
+
+- Test Suite Report ==> Test Case passed, the report can be obtained from report.html generated after the API call
+
+![Demonstration Image](image4.png)
 
 ## Project Structure
 
