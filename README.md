@@ -39,6 +39,8 @@ The core objective of this project is to create an application that accepts a de
 
 ## Usage
 
+-Before execution make sure all the dependencies from requirements.txt are installed
+
 1. Change the directory to testai_project
      ```bash
     cd testai_project
