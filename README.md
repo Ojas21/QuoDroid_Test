@@ -6,9 +6,9 @@
 
 A solution for automated test execution using Python, Django, and Robot Framework. This project was developed as a response to a recruitment challenge
 
-The core objective of this project is to create an application that accepts a detailed API call, executes the testing steps provided within as a Robot Framework test, and returns the test output.
+The core objective of this project is to create an application that accepts a detailed POST method API call, executes the testing steps provided within as a Robot Framework test, and returns the test output.
 
-## Demon-Images
+## Result-Images
 
 ![Demonstration Image](image2.png)
 ![Demonstration Image](image3.png)
@@ -20,7 +20,8 @@ The core objective of this project is to create an application that accepts a de
 - Python 3.x
 - Django
 - Robot Framework
-- SeleniumLibrary (a part of Robot Framework)
+- Robotframework-seleniumlibrary
+- Selenium
 
 ## Installation
 
@@ -90,12 +91,6 @@ Upon making a POST request, you will receive a JSON response containing the test
 - `test_suite.robot` file dynamically generated to define Robot Framework test cases.
 - `requirements.txt` lists the project dependencies.
 
-## Demonstration
-
-![Demonstration Image](image2.png)
-![Demonstration Image](image3.png)
-![Demonstration Image](image5.png)
-![Demonstration Image](image4.png)
 
 
 ## Contribution
