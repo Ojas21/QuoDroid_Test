@@ -1,13 +1,10 @@
 # QuoDroid_Test
-Certainly! Here's an improved and more elaborate version of the README.md file:
-
----
 
 # Automated Test Execution with Python, Django, and Robot Framework
 
 ## Overview
 
-Welcome to our innovative solution for automated test execution using Python, Django, and Robot Framework. This project was developed as a response to a recruitment challenge, demonstrating our ability to quickly learn and apply new technologies while showcasing problem-solving capabilities.
+A solution for automated test execution using Python, Django, and Robot Framework. This project was developed as a response to a recruitment challenge
 
 The core objective of this project is to create an application that accepts a detailed API call, executes the testing steps provided within as a Robot Framework test, and returns the test output.
 
@@ -69,7 +66,12 @@ Upon making a POST request, you will receive a JSON response containing the test
 
 ```json
 {
-    "result": "==============================================================================\nTest Suite                                                                    \n==============================================================================\nTest Open google.com                                                  | PASS |\n------------------------------------------------------------------------------\nTest Suite                                                            | PASS |\n1 test, 1 passed, 0 failed\n==============================================================================\n"
+    "result": "==============================================================================\nTest Suite                                        ==============================================================================\nTest
+                Open google.com                                                  | PASS |\n
+               ------------------------------------------------------------------------------\nTest
+                Suite                                                            | PASS |\n
+                1 test, 1 passed, 0 failed\n
+                ==============================================================================\n"
 }
 ```
 
@@ -92,5 +94,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README according to your project's specifics. If you need assistance with inserting images or any further customization, let me know!
