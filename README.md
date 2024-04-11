@@ -86,7 +86,8 @@ Upon making a POST request, you will receive a JSON response containing the test
 ## Demonstration
 
 ![Demonstration Image](Screenshot (592).png)
-![Demonstration Image](Screenshot (594).png)
+![Demonstration Image](QuoDroid_Test
+/Screenshot (594).png)
 ![Demonstration Image](image.png)
 
 ## Contribution
