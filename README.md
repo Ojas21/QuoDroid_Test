@@ -18,7 +18,7 @@ The core objective of this project is to create an application that accepts a de
 - Automated Chrome and Google.com search after .robot execution
  
 ![Demonstration Image](image5.png)
--Test Suite Report - Test Case passed
+- Test Suite Report ==> Test Case passed
 
 ![Demonstration Image](image4.png)
 
