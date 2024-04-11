@@ -8,7 +8,7 @@ A solution for automated test execution using Python, Django, and Robot Framewor
 
 The core objective of this project is to create an application that accepts a detailed POST method API call, executes the testing steps provided within as a Robot Framework test, and returns the test output.
 
-## Result-Images
+## Demonstration-Images
 - File Structure
 
 ![Demonstration Image](image2.png)
